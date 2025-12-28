@@ -12,3 +12,4 @@ Dans le cadre de ma montée en compétences post-certification **Google Data Ana
 
 ## 🚀 Comment l'utiliser
 Le script prend un DataFrame brut en entrée et génère automatiquement un graphique des ventes par jour de la semaine.
+![Graphique des ventes](Evolution_ventes.png)
